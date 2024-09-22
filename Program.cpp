@@ -4,7 +4,6 @@
 
 int main() {
 	SetConsoleOutputCP(CP_UTF8);
-
 	std::cout << u8R"(
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠙⠻⢶⣄⡀⠀⠀⠀⢀⣤⠶⠛⠛⡇⠀⠀⠀
@@ -45,7 +44,7 @@ int main() {
 
 		Input.KeyCought();
 
-		Sleep(10);
+		Sleep(100);
 	}
 
 	delete pWindow;

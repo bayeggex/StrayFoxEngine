@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A74E90-8B18-41C5-9FB0-1E147B14B992}|StrayFoxEngine.vcxproj|C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5A74E90-8B18-41C5-9FB0-1E147B14B992}|StrayFoxEngine.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A74E90-8B18-41C5-9FB0-1E147B14B992}|StrayFoxEngine.vcxproj|C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5A74E90-8B18-41C5-9FB0-1E147B14B992}|StrayFoxEngine.vcxproj|solutionrelative:Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.h",
+              "RelativeDocumentMoniker": "Input.h",
+              "ToolTip": "C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.h",
+              "RelativeToolTip": "Input.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T17:51:24.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.cpp",
+              "RelativeDocumentMoniker": "Input.cpp",
+              "ToolTip": "C:\\Users\\bayeg\\OneDrive\\Documents\\StrayFoxEngine\\Input.cpp",
+              "RelativeToolTip": "Input.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T17:34:59.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
