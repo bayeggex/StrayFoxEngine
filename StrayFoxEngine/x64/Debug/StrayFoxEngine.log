@@ -1,0 +1,5 @@
+﻿  Input.cpp
+C:\Users\bayeg\source\repos\StrayFoxEngine\Input.cpp(3,7): warning C4273: 'GetAsyncKeyState': tutarsız dll bağlantısı
+  Program.cpp
+  Kod Üretiliyor...
+  StrayFoxEngine.vcxproj -> C:\Users\bayeg\source\repos\StrayFoxEngine\x64\Debug\StrayFoxEngine.exe
